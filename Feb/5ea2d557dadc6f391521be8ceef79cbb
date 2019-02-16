@@ -1,0 +1,70 @@
+Algorithms have long been able to produce basic news stories
+from press releases or sets of financial data; that’s not much of a threat to
+most humans in the news business. Now, however, artificial intelligence has
+taken a step further. It’s learned to perform a tougher task – to produce
+convincing-looking fake news. Stringing together a few formulaic passages from a set of
+numbers is a mechanical job. Inventing a fake news story on a random subject
+requires imagination; not every human is up to it. The San Francisco-based
+nonprofit OpenAI, founded by Tesla Chief Executive Officer Elon Musk and Y
+Combinator President Sam Altman, has produced a so-called language model that
+can do it. The quality of the output is somewhat uneven, but the best examples
+resemble human writing to a frightening degree. On the surface, GPT-2, as the model is called, works
+somewhat like a popular game one can play with the less advanced version of AI
+on any smartphone, accepting its word suggestions one after another to create
+sometimes surprising little stories. GPT-2, trained on a dataset of 8 million
+human-curated web pages, writes text by predicting the next word based on all
+the previous ones in it. One needs to
+give GPT-2 a line or two to get it started on any subject at all, the training
+dataset, consisting of outbound links from the social network Reddit, is rich
+enough for that. "The model is chameleon-like — it adapts to the style and
+content of the conditioning text," OpenAI researchers wrote in a blog
+post. The sample in the post is a surprisingly coherent story
+about a herd of unicorns discovered by a scientist in the Andes. Given two
+sentences about the find and the unicorns’ ability to speak perfect English,
+the machine produced what could almost be a story from any mainstream news
+site. It gave the scientist a name, Dr. Jorge Perez from the
+University of La Paz (there’s no school with that exact name), produced quotes
+from him and expanded on the unicorns’ appearance ("silver-white")
+and language abilities (they speak a dialect of their own plus "fairly
+regular English"). Of course a human editor might have had trouble with
+the contradiction in this sentence: "Some believe that perhaps the
+creatures were created when a human and a unicorn met each other in a time
+before human civilisation." The model produced this result on the 10th attempt: The more
+it exercises on a given subject, the more confident and coherent its output.
+Examples of what GPT-2 "writes" unprompted, which OpenAI released on
+GitHub together with a weaker version of the model, range from slightly surreal
+to downright bizarre. They include a chronology of a tax scandal involving the
+late Senator John McCain: Alaska Senator Lisa Murkowski became the first ‘serious’
+name in the national political media drama to call for McCain to cooperate with
+Senate colleagues by either disclosing his tax returns or cooperating with what
+she called the ‘full force’ of the IRS, DOJ, FBI, etc. Or take this bit of a technology review: The legendary Precision Bass brings a massive bass response
+and fun, smoky tone to the world! These versatile midbass speakers deliver
+incredible low frequency extension: 32" high-frequency response - about
+two-thirds of a speaker. Or what looks like a reported story from Bangladesh: DHAKA: Thousands of people marched through Dhaka on
+Thursday, many decked in the colors of the semi-arid northern region marked by
+the drought-stricken region's tallest mountains. To the OpenAI researchers, this crackpot creativity isn’t
+the most exciting feature of GPT-2; in a technical paper, they discuss its
+ability to perform a number of tasks for which specialised models are usually
+produced: translation, question answering, understanding text. It’s generally
+not as good as humans, but the system’s versatility is clear evidence that
+unsupervised learning techniques can bring AI far beyond highly specialised
+algorithms that can only excel at a specific task like playing a game or
+comparing particular kinds of images. In the real world, however, GPT-2’s "literary gift"
+could have more ominous implications. Focusing its "creative power"
+for the narrow purposes of, say, political propaganda and disinformation could
+make the hand-production of such material unnecessary. No cottage fake news
+industry like the one that emerged in the Macedonian town of Veles during the
+2016 U.S. presidential election would be needed for thousands of social network
+accounts and websites to spew any kind of partisan nonsense or invented news.
+They’ll be shared, too – research shows a majority of people are unable to
+distinguish between fake and real news. To OpenAI’s credit, it’s fully aware of the harm that can be
+done with models like GPT-2; in addition to disinformation, it points to their
+potential for automated cyberbullying. So, though the model can also be used
+for innocuous purposes, such as creating better dialog bots, the nonprofit has,
+at least for now, decided against releasing the training dataset or the full
+code for the model. Knowledge, though, can’t be contained in this way, and
+language models will keep improving. It’s conceivable that their "literary"
+product will eventually flood the media platforms that aren’t controlled by
+professional editors, above all the social networks. Intelligent human writing
+becomes especially important in the face of that coming flood – at least while
+there’s an audience for it.
