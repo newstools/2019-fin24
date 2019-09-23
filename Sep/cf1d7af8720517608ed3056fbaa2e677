@@ -1,0 +1,115 @@
+Applied Artificial Intelligence: A Handbook for Business Leaders by
+Mariya Yao, Adelyn Zhou, and Marlene Jia Who is the most intelligent person you know? Why do you
+consider him or her so intelligent? Is it because she is a quick thinker who
+can absorb and process new knowledge immediately? Is it because he is astonishingly
+creative and seems able to generate a constant flow of new ideas? People have a wide spectrum of what can be described as
+intelligence. Computers, on the other hand, are best known for the one specific
+area in which they are far superior to people: large-scale computational tasks.
+Aside from this narrow area of expertise, currently machine capability lags behind
+human intelligence. This book provides an indispensable entre to AI for business
+leaders, and aspirant business leaders. They can ill afford not to have a
+working understanding of an area that will have a profound impact on their
+success. "To help business executives disentangle the functional
+differences between different AI approaches, we've segmented applications along
+our Machine Intelligence Continuum," the authors explain. Below are listed the key elements of each. Rule-based automatons At the lowest level of machine intelligence are "Systems That Act", which the authors
+describe as rule-based automatons. These systems are built to perform as they
+are scripted to, such as 'if this happens, then do that'. An example is the cruise
+control in your car. It uses a motor to adjust the throttle position to keep
+the car at the speed you selected. It is incapable of dynamic actions or
+decisions. Most companies claiming to have AI are really using only "Systems
+that Act". From known to unknown The next level is "Systems
+That Predict". This system has the capability of analysing data and
+producing probabilistic predictions. It moves from known information to unknown
+information. The retailer, Target, was
+able to identify 25 products, including unscented lotion and calcium supplements,
+that can predict the likelihood of a shopper being pregnant - and even the
+stage of her pregnancy. They used this information to target the lady and sell
+specific products. Of course, these predictions are only as good as the data.
+Flawed data will produce erroneous results. Deep learning To produce "Systems
+That Learn" requires both machine learning and deep learning. What makes
+this level different to the previous one is that they can perform tasks without
+being explicitly programmed for this. The result is that these machines can
+perform at human or better-than-human levels. The system acquires data from
+which a prediction about the world is created. This prediction is then combined
+with higher-level judgement and an action, to produce a particular result.
+Information in the form of feedback and measurements from the result, can inform
+earlier decision points and improve the task performance thereafter. A self-driving car, for
+example, must control the whole driving task. It must turn video and sensor
+feeds into accurate predictions of what is happening around it and take the
+correct action. Are humans needed? It is often asserted that
+with all the AI we still need humans, because only we are capable of creativity.
+This is not true. Computers have been used for creating design and art for
+decades. The recent breakthroughs in neural network models have led to a
+revival of computational creativity. Computers are now capable of producing
+original writing, imagery, music, industrial designs, and even AI software! Sony's Flow Machines used
+AI trained on Beatles' songs to generate their own hit, Daddy's Car, which
+eerily resembles the musical style of the Beatles. Ditto for Bach music which human
+evaluators often couldn't differentiate from the real Bach. Human employees
+collaborate more with AI tools at work and use digital assistants like Apple's
+Siri and Amazon Echo's Alexa. As such, machines will also need to be
+emotionally intelligent, and so we will increasingly need "Systems That
+Relate". Sentiment analysis or
+emotional AI, extracts and organises emotional states from our text, voice,
+facial expressions, and body language. This data will allow computers to
+respond empathically, just as the most sensitive people do. Amazon is already
+prioritising emotional recognition for the Echo. Towards mastery A human toddler can see a
+tiger only once and develop a mental construct of the animal, and recognise
+other tigers. If people couldn't recognise different tigers, we would have been
+killed by them. A deep-learning algorithm needs to process thousands of tiger
+images to be able to recognise them in pictures and videos, but this doesn't
+transfer to other abstractions of tigers such as cartoons or a person in a
+tiger costume. People are the ultimate "Systems That Master", intelligent agents capable
+of constructing abstract concepts from sparse data. We can create representations
+of the world and transfer knowledge from one domain to another. There is a material
+difference between AI and AGI – artificial general intelligence. To date no AI
+system has AGI, only humans do. The authors final category
+is "Systems That Evolve". These are systems that exhibit superhuman
+intelligence and capabilities. Such systems can change their own architecture
+and design, to adapt to environmental needs. As humans, we're limited by
+our biological brains, our "wetware". We evolved through generations
+and cannot simply re-architect our own biology in our lifetime. Computers are currently
+limited by both hardware and software: we are limited by our wetware. Some
+futurists suggest that we may be able to achieve superhuman intelligence by
+augmenting biological brains with synthesised technologies, but currently this
+is more science fiction than science. If we could achieve this
+synthesis we would achieve "singularity", when machine intelligence
+surpasses human intelligence, leading to an intelligence explosion and the emergence
+of superintelligence. We are already seeing the promise of AI in action in the
+fight against social injustice and crime; in addressing health and humanitarian
+crises; in the solving of pressing community problems; and in the dramatic
+improvement in the quality of life for everyone. Consider these examples. When Sahil Singla joined FarmGuide, a social impact startup,
+he discovered that thousands of rural farmers in India commit suicide every
+year. When harvests fail, desperate farmers are forced to borrow from
+microfinance loan sharks at crippling rates, and unable to pay back, kill
+themselves. Using FarmGuide which analyses satellite imagery to predict
+crop yields for individual farms, Singla and his team built better actuarial
+models for lending and insurance. Armed with this information they can provide
+farmers with loans at lower, fairer interest rates. UNICEF's U-Report, is a social reporting bot that enables
+young people in developing countries to report social injustice in their
+communities via SMS and other messaging platforms. When U-Report polled 13 000 users in Liberia to ask whether
+teachers at their schools were exchanging grades for sex, an outrageous 86% said
+yes! Within a week of the U-Report on the "Sex Grades" epidemic,
+hotlines around the country were inundated with reports of child abuse,
+effectively exposing a pervasive taboo, and empowering victims to speak up and
+reach out for help. AI can dramatically streamline and improve medical care. In
+both pathology and radiology there is a reliance on people to spot anomalies. Studies
+reveal that two pathologists assessing the same slide of biopsied tissue will
+only agree about 60% of the time. AI systems for diagnosing breast cancer utilises computer-vision
+techniques that have been optimised for medical image recognition. They were
+able to interpret patient records with 99% accuracy. But AI is not without its own challenges. Poor or incorrect
+data leads to poor or incorrect results. Biases of the technology creators
+trickle down to their creations, which can have serious consequences for identifying
+terrorists, predicting criminal recidivism, and triaging medical cases, and so
+on. Perhaps the biggest challenge is that while AI will
+transform the economy on a large scale, not everyone will benefit equally from the
+opportunities that will become available. New jobs in this economy will require
+greater technical competency than is currently available in the workforce. "Business leaders have an ethical responsibility to
+workers to minimise and ameliorate the potential disruptions that AI may bring
+to the workplace," note the authors. Investments in one's workforce could increase the likelihood
+that advanced automation increases productivity, while ensuring high levels of
+employment and shared prosperity. Readability         Light
+---+- Serious Insights              High
+-+--- Low Practical              High ---+- Low Ian
+Mann of Gateways consults internationally on strategy and implementation and is
+the author of 'Strategy that Works' and 'The Executive Update.' Views
+expressed are his own.
