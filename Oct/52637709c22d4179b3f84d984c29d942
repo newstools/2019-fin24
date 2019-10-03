@@ -1,0 +1,53 @@
+Uwe Daebel knows what makes the perfect beer for Munich’s
+Oktoberfest: Cold and in your hand. But because Daebel is the engineer for Paulaner, the
+Munich-based brewery, who for decades has overseen Oktoberfest beer-flow
+management, he’s obsessed with the tight logistical ballet of the technology
+that enables it. "It’s got to be a cold beer until the very last gulp,"
+said Daebel, standing outside Paulaner’s Festzelt, or party tent, in jeans,
+running shoes and a traditional red Bavarian vest. Munich’s annual Oktoberfest, which runs through October 6,
+sees a staggering amount of beer. Almost 8 million litres, enough to fill more
+than three Olympic-sized swimming pools, flow from 28 000-litre tanks and
+into the bellies of roughly 6 million revellers. To keep the beer under 2
+degrees Celsius and maintain the fizz of 4.5 grams of carbon dioxide per litre,
+Daebel has enlisted Siemens and the internet of things. Munich-based Siemens, once one of Europe’s largest
+engineering conglomerates, is in the midst of transforming itself into a much
+smaller company that specialises in machine automation. It handles beer flow
+for three big beer tents, including the Paulaner Festzelt. Quick refill It usually takes about seven hours for beer trucks to fill
+the three tanks. But for Paulaner, Siemens situated them in a single location,
+where they can be refilled in a little more than 90 minutes. A pipeline runs
+from the tanks into the various stations where the beer is filled into waiting
+glasses. Monitoring the operation is Siemens’s internet of things
+software, called Mindsphere. In a backroom, mounted beside steel pipes, is a
+15-inch tablet where Daebel can monitor the condition of every beer station. In
+emergency situations, Daebel can also oversee the system wherever he goes on a
+laptop he keeps in a backpack. On the tablet, a graphic representation of the entire beer
+system is laid out. Little wooden barrels smile wider the more beer flows
+through them. Daebel checks the numbers. The beer is at an acceptable 1.8
+degrees, and the pressure is steady at 1.14 bars. That’s much more uniform than
+in the past. Before the system was centralised, "every barkeeper
+used to have their own philosophy on maintaining pressure," Daebel said.
+As beer left the tanks, they’d keep the pressure up using bottles of pressurised
+carbon dioxide beside them. But everyone pressurised differently, and in some
+cases, barely at all. "The carbon dioxide just goes to the dogs then,"
+Daebel says. Now, large tanks of liquid carbon dioxide, supplied by
+another Munich-based company, Linde, stand in another room, and as beer leaves
+the tanks, Siemens’s software automatically pumps the carbon dioxide into the
+mix to maintain pressure. The result is that the system can handle 12 000 litres of
+beer per hour. The demand is usually far less than that, with the exception of
+the opening Saturday, when guests can’t seem to get enough. Down to the temperature With the help of the data, brewers can predict demand,
+according to Stefan Scharpen, the sales head at Siemens Digital Industries, who
+started the project with Paulaner. It comes down to temperature. If the tanks are
+overfilled there’s a lot of beer at the end of the night, that beer will
+be warm by the next day. If too much warm beer is left sloshing in the tanks,
+that elevates the temperature of the next day's batch. And because warmer
+beer flows more slowly, that can affect how quickly the beer travels from
+tank to stein. "Then the bartender suddenly needs 2.5 seconds per
+litre, instead of 1.8, and that's a problem," Scharpen said. All the gadgetry happens away from guests’ eyes, in locked
+rooms above and away from the celebrations. The revellers, for the most part,
+don’t know - and don’t care - about the intricate network of pipes, sensors and
+pressurized gases that delivers their beer. Sitting in a box with her friends, Maria Rasp, 21, drinks a
+standard 1-litre beer. The Munich native said she attends the festival every
+year. Her requirements: The beer needs to be cold, and it needs to
+be filled right up to the litre line so that she’s getting her money’s worth.
+But her topmost concern is similar to Daebel’s. "The only thing that matters," Rasp said, "is
+that it gets here fast."
