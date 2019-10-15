@@ -1,0 +1,38 @@
+We have previously discussed
+oscillators and how to study
+them. I want to look more closely at specific oscillators. In this
+issue, I am going to discuss the moving average
+convergence/divergence (MACD) oscillator. It’s perhaps worth spending time practising
+with each oscillator. In fact, I would suggest that
+you apply them to your charts and do some
+analysis of your own as practice*. The MACD oscillator makes use of two
+moving averages and turns them into a
+momentum oscillator by subtracting the
+longer moving average from the shorter
+moving average. It can therefore give us the best of
+two worlds: an indication of momentum
+and changes in that momentum, and an
+indication of trend and changes in that trend. The MACD does differ from other
+oscillators in the sense that it is unbounded,
+meaning that it is not limited to 0 or 100 at the
+extremes; it can extend beyond those levels
+(on a cumulative basis). The basic construction
+of a MACD oscillator is explained below: This indicator presents us with three
+pieces of information: 1) The MACD line is calculated by subtracting
+a 26-day exponential moving average (EMA)
+from a 12-day EMA. The line that this plots is
+therefore reflective of how these two moving
+averages move closer or further away from each
+other (or cross over) over time, thus giving us an
+indication of how strong the momentum that is
+driving the share price trend is. Source: Herenya Capital Advisors 2) The signal line is calculated by adding a
+nine-day EMA to the MACD line and is used as
+a “trigger”/“signal” that there has been a shift in
+directional momentum by watching for bullish
+or bearish crossovers, much like you would with
+a normal moving average on price. 3) The histogram is plotted by subtracting
+the signal line from the MACD line. It shows
+us the difference between the MACD and
+signal line in a very easy format. It also does
+well to show us the trend of the MACD line. Potential trading signals are generated when
+the signal line crosses over the MACD line, when the MACD line crosses over the centreline (0 on the y-axis), and when divergence can be identified between the MACD line and the security price. Buy signals would therefore be bullish crossovers of the signal line and MACD line (when the signal line tucks under the MACD line from above) and/or a movement of the MACD from below 0 to above 0 (the centreline) on the y-axis. Source: Herenya Capital Advisors Sell signals would be given when a bearish crossover of the signal line and the MACD line takes place (when the signal line cuts through and moves above the MACD line from below) and/or a movement of the MACD line from above to below the 0 or centre line on the y-axis. Source: Herenya Capital Advisors Looking at the recent gold price chart on a daily timeframe and using a crossover of the signal line and MACD line, we can see a large number of buy and sell signals being generated. Of the signals indicated on the chart, the first buy signal and first sell signal proved to not be that reliable. The signals would have triggered buys and sells at roughly the same price and would very likely have led to a small losing trade. The second and third set of buy and sell signals worked a lot better and, no doubt, would have signalled the entry and exit from profitable trades. Once again, looking at the gold price chart on a daily timeframe, but this time using the MACD line crossing over the centre line to generate buy and sell signals, we immediately see that fewer signals are generated. Once again, the first set of signals generated proved unsuccessful, although the second signal was profitable, and the third signal has triggered a buy and, according to the chart, has not yet provided a sell signal. Thus, the current open trade is a large winner. Naturally, these indicators become more reliable when combined with other factors as well. But remember to keep it simple. Don’t overcomplicate any analysis that you might do. *From Petri: Readers are welcome to drop their analysis in the #finweek channel on the HCA community Discord Server and I will give you some feedback. Join the Discord by visiting this link. This article originally appeared in the 10 October edition of finweek magazine. Buy and download the magazine here or subscribe to our newsletter here.
